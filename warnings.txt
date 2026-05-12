@@ -1,0 +1,6 @@
+BLOCH-9.62;NonCompliant.java;12;CALLABLE_DEC;THROWS CLAUSE of es.uniovi.reflection.bloch_9_62.noncompliant.NonCompliant:justOne()void
+BLOCH-9.62;NonCompliant.java;16;CALLABLE_DEC;THROWS CLAUSE of es.uniovi.reflection.bloch_9_62.noncompliant.NonCompliant:threeWithSubtype()void
+BLOCH-9.62;NonCompliant.java;22;CALLABLE_DEC;THROWS CLAUSE of es.uniovi.reflection.bloch_9_62.noncompliant.NonCompliant:threeReflectiveOp()void
+BLOCH-9.62;NonCompliant.java;28;CALLABLE_DEC;THROWS CLAUSE of es.uniovi.reflection.bloch_9_62.noncompliant.NonCompliant:threeReflectiveNoThrow()void
+BLOCH-9.62;NonCompliant.java;34;CALLABLE_DEC;THROWS CLAUSE of es.uniovi.reflection.bloch_9_62.noncompliant.NonCompliant:threeReflectiveNoMayThrow()void
+BLOCH-9.62;NonCompliant.java;45;CALLABLE_DEC;THROWS CLAUSE of es.uniovi.reflection.bloch_9_62.noncompliant.NonCompliant:poorCatch()void
